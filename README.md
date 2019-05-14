@@ -1,0 +1,2 @@
+# slotz
+A slot game
